@@ -24,14 +24,8 @@
 - **Firewall with Raspberry Pi 4:** Configured home firewall using iptables & NAT.
 - **Port Scanner (Python):** Developed a port scanning tool for network enumeration.
 - **Basic Brute-force Script:** Educational script for password auditing.
-- **Online FIR System:** Secure web platform focusing on data security and encryption.
 ---
 ### 📫 How to Reach Me:
 - **LinkedIn:** [Manish's Profile](https://www.linkedin.com/in/manish-a189802a8/)
 - **Email:** manish49fzd@gmail.com
 ---
-### 📈 TryHackMe Badge (Optional):
-You can embed your TryHackMe badge (from your profile):
-```markdown
-![TryHackMe Badge](https://tryhackme.com/badge/1984456)
-![TryHackMe Badge]
