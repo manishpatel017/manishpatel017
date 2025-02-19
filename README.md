@@ -33,4 +33,5 @@
 ### 📈 TryHackMe Badge (Optional):
 You can embed your TryHackMe badge (from your profile):
 ```markdown
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/darkmancyber.png)
+![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1984456" style='border:none;'></iframe>
+)
