@@ -18,7 +18,7 @@
 ---
 ### 📜 Certifications:
 - **Certified Ethical Hacker (CEH)** (In progress – Expected April 2025)
-- **TryHackMe – Top 2% Globally** ([Profile Link](https://tryhackme.com/p/darkmancyber))
+- **TryHackMe – Top 2% Globally** (https://tryhackme.com/p/DarkManCyber)
 ---
 ### 🧑‍💻 Projects:
 - **Firewall with Raspberry Pi 4:** Configured home firewall using iptables & NAT.
